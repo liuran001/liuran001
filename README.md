@@ -5,6 +5,9 @@
 你可以使用以下语言和我交流  
 `中文 | English`  
 
+A Chinese student.  
+Only have free time on weekends.  
+只有周末才有空。  
 
 Mail: liuran567@gmail.com  
 Telegram: @liuran001  
