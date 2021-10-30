@@ -4,7 +4,7 @@
 你可以使用以下语言和我交流  
 `中文 | English`  
 
-15岁，是鸽子。  
+个人主页：https://bdovo.xyz/
 
 Mail: liuran567@gmail.com  
 Telegram: [@liuran001](https://t.me/liuran001)  
