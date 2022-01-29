@@ -18,5 +18,5 @@ QQ: [1939426769](https://qm.qq.com/cgi-bin/qm/qr?k=eo04fmsbFTnaWyX6EIuoFHA-1aieY
 
 
 I like playing `Genshin Impact` ~~,although I am a FeiWu~~ .
-<img src="https://genshin-card.getloli.com/rand/289540492.png">
-<img src="https://genshin-card.getloli.com/rand/300231178.png">
+
+<img src="https://genshin-card.getloli.com/rand/289540492.png"><img src="https://genshin-card.getloli.com/rand/300231178.png">
