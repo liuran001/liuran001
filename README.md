@@ -1,6 +1,3 @@
-<img src="https://github.com/liuran001/liuran001/raw/master/github-metrics.svg">
-
-
 个人主页Homepage：https://bdovo.xyz/
 
 
