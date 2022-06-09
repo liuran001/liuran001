@@ -1,10 +1,7 @@
-Homepage: https://bdovo.xyz
-
+Homepage: https://bdovo.xyz  
 Blog: https://blog.qqcn.xyz
 
-
-Telegram: @liuran001 ([PM use Bot](https://t.me/BDovo_bot))
-
+Telegram: @liuran001 ([PM use Bot](https://t.me/BDovo_bot))  
 Telegram Channel: [@BDovo_qaq](https://t.me/s/BDovo_qaq)
 
 
