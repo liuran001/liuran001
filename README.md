@@ -1,9 +1,14 @@
-个人主页Homepage：https://bdovo.xyz/
+Homepage: https://bdovo.xyz
+
+Blog: https://blog.qqcn.xyz
 
 
+Telegram: @liuran001 ([PM use Bot](https://t.me/BDovo_bot))
 
-Mail: liuran001@foxmail.com  
-Telegram: [@liuran001](https://t.me/liuran001)  
-QQ: [1939426769](https://qm.qq.com/cgi-bin/qm/qr?k=eo04fmsbFTnaWyX6EIuoFHA-1aieYeaI&noverify=0)  
-酷安: [@笨蛋ovo_qaq（快播内部工作人员）](http://www.coolapk.com/u/1169803)  
-哔哩哔哩: [笨蛋ovo_qaq](https://b23.tv/fP7s06)  
+Telegram Channel: [@BDovo_qaq](https://t.me/s/BDovo_qaq)
+
+
+Donate:
+- Afdian: https://afdian.net/@BDovo
+- Paypal: https://paypal.me/BDovo
+- Parteon: https://www.patreon.com/BDovo
