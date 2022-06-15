@@ -20,3 +20,4 @@ Donate:
 - Afdian: https://afdian.net/@BDovo
 - Paypal: https://paypal.me/BDovo
 - Parteon: https://www.patreon.com/BDovo
+- USDT-TRC20: `TPHD4krBNLGkbucmNayq35zVPZxwnQMTH5`
