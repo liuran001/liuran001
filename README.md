@@ -21,7 +21,3 @@ Donate:
 - Paypal: https://paypal.me/BDovo
 - Parteon: https://www.patreon.com/BDovo
 - USDT-TRC20: `TPHD4krBNLGkbucmNayq35zVPZxwnQMTH5`
-
-The following is for JetBrains OSS development license applications only:
-
-`Request ID=14062022/9516186`
