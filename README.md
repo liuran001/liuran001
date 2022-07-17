@@ -1,4 +1,4 @@
-Homepage: https://bdovo.xyz  
+Homepage: https://bdovo.cc  
 Blog: 维护中，暂未开放
 
 Telegram: @liuran001 ([PM with Bot](https://t.me/BDovo_bot))  
