@@ -1,7 +1,7 @@
-Homepage: https://bdovo.cc  
-Blog: 维护中，暂未开放
+~~Homepage: https://bdovo.cc  
+Blog: 维护中，暂未开放~~
 
-Telegram: @liuran001 ([PM with Bot](https://t.me/BDovo_bot))  
+Telegram: ([PM Bot](https://t.me/BDovo_bot))  
 Telegram Channel: [@BDovo_qaq](https://t.me/s/BDovo_qaq)
 
 ### Working Environment
@@ -21,4 +21,4 @@ Donate:
 - Afdian: https://afdian.net/@BDovo
 - Paypal: https://paypal.me/BDovo
 - Parteon: https://www.patreon.com/BDovo
-- USDT-TRC20: `TBeBMqMA7jMUdkK3TeqfV9Zh2mRUauCiET`
+- TRC10/20/721: `TUSzW8D6r5TcTRaDoc8Yzihd5DHXFjmnLC`
