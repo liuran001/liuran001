@@ -1,7 +1,7 @@
 Homepage: https://bdovo.cc  
 ~~Blog: 维护中，暂未开放~~
 
-Telegram: ([@Chisato22](https://t.me/Chisato22))  
+Telegram: [@Chisato22](https://t.me/Chisato22)  
 Telegram Channel: [@BDovo_qaq](https://t.me/s/BDovo_qaq)
 
 ### Working Environment
