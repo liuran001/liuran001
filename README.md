@@ -1,7 +1,7 @@
-~~Homepage: https://bdovo.cc  
-Blog: 维护中，暂未开放~~
+Homepage: https://bdovo.cc  
+~~Blog: 维护中，暂未开放~~
 
-Telegram: ([PM Bot](https://t.me/BDovo_bot))  
+Telegram: ([@Chisato22](https://t.me/Chisato22))  
 Telegram Channel: [@BDovo_qaq](https://t.me/s/BDovo_qaq)
 
 ### Working Environment
@@ -22,4 +22,4 @@ Donate:
 - Afdian: https://afdian.net/@BDovo
 - Paypal: https://paypal.me/BDovo
 - Parteon: https://www.patreon.com/BDovo
-- TRC10/20/721: `TUSzW8D6r5TcTRaDoc8Yzihd5DHXFjmnLC`
+- TRON: `TUSzW8D6r5TcTRaDoc8Yzihd5DHXFjmnLC`
