@@ -1,6 +1,6 @@
-Homepage & Blog: https://bdovo.cc  
+Blog: https://bdovo.cc  
 
-~~Telegram: [@Chisato22](https://t.me/Chisato22)~~
+Telegram: [@Chisato22](https://t.me/Chisato22)
 
 Telegram Channel: [@BDovo_qaq](https://t.me/s/BDovo_qaq)
 
