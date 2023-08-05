@@ -1,8 +1,8 @@
 Blog: https://bdovo.cc  
 
-Telegram: [@Chisato22](https://t.me/Chisato22)
+Telegram: [@huobi_robot](https://t.me/huobi_robot)
 
-Telegram Channel: [@BDovo_qaq](https://t.me/s/BDovo_qaq)
+Telegram Channel: [@BDovo_Channel](https://t.me/s/BDovo_Channel)
 
 ### Working Environment
 ![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows11&logoColor=ffffff)
@@ -22,3 +22,4 @@ Donate:
 - Paypal: https://paypal.me/BDovo
 - Parteon: https://www.patreon.com/BDovo
 - TRON: `TUSzW8D6r5TcTRaDoc8Yzihd5DHXFjmnLC`
+- TON: `huobi_robot.t.me`
