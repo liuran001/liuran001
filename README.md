@@ -20,6 +20,5 @@ Telegram Channel: [@BDovo_Channel](https://t.me/s/BDovo_Channel)
 Donate:
 - Afdian: https://afdian.net/@BDovo
 - Paypal: https://paypal.me/BDovo
-- Parteon: https://www.patreon.com/BDovo
 - TRON: `TUSzW8D6r5TcTRaDoc8Yzihd5DHXFjmnLC`
 - TON: `huobi_robot.t.me`
