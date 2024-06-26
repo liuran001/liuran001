@@ -1,4 +1,5 @@
-Blog: https://bdovo.cc  
+Homepage: https://www.bdovo.cc  
+Blog: https://blog.obdo.cc  
 
 Telegram: [@huobi_robot](https://t.me/huobi_robot)
 
