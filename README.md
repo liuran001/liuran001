@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/596eb077-5208-44c1-a830-f035cf6997f1.svg)](https://wakatime.com/@596eb077-5208-44c1-a830-f035cf6997f1)
+
 Homepage: https://www.bdovo.cc  
 Blog: https://blog.obdo.cc  
 
